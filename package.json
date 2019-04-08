@@ -1,0 +1,24 @@
+{
+  "name": "squad",
+  "version": "1.0.0",
+  "description": "squad",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.4.2",
+    "fortnite": "^4.3.2",
+    "google": "^2.1.0",
+    "memejs": "^1.0.7",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^5.1.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "",
+  "license": "ISC"
+}
